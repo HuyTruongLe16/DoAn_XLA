@@ -1,0 +1,11 @@
+# CHAN CAC THU MUC DU LIEU CUA BAN
+FlickrLogos32.v1.yolov8/
+train/
+valid/
+test/
+images/
+labels/
+
+# CHAN CAC FILE TAM THOI VA CACHE
+runs/
+__pycache__/
