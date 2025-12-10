@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 32
+names: ['HP', 'adidas', 'aldi', 'apple', 'becks', 'bmw', 'carlsberg', 'chimay', 'cocacola', 'corona', 'dhl', 'erdinger', 'esso', 'fedex', 'ferrari', 'ford', 'fosters', 'google', 'guiness', 'heineken', 'milka', 'nvidia', 'paulaner', 'pepsi', 'rittersport', 'shell', 'singha', 'starbucks', 'stellaartois', 'texaco', 'tsingtao', 'ups']
+
+roboflow:
+  workspace: vu-quoc-minh-dang
+  project: flickrlogos32
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/vu-quoc-minh-dang/flickrlogos32/dataset/1
