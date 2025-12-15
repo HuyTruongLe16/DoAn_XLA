@@ -1,0 +1,6 @@
+ultralytics
+opencv-python
+opencv-contrib-python
+numpy
+gradio
+Pillow
