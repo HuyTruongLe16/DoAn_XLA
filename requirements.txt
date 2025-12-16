@@ -2,6 +2,8 @@ ultralytics
 opencv-python
 opencv-contrib-python
 numpy
+glob
 gradio
+os
 Pillow
 cv2
